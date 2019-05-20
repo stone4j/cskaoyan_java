@@ -1,7 +1,7 @@
 # 张宁组
 https://github.com/996isblessing/SsmErp
 # 彭顺组
-https://github.com/pssu/testGit
+https://github.com/pssu/erp
 # 张长炼
 https://github.com/1cutecoder/j13_repository
 # 唐轩
