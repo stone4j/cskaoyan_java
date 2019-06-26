@@ -8,11 +8,11 @@ https://github.com/cdy17test/Project2
 https://github.com/yangshuo-code/wd_ssm_project1
 # 韦康
 https://github.com/HelloChrisWei/aproduction_ssm
-# jdpglxl
+# 李晓龙
 https://github.com/jdpglxl/j14_group_repository1
-# xiazhefengzhi
+# 甘国华
 https://github.com/xiazhefengzhi/NeverGiveUp
-# haojunfei
+# 郝俊飞
 https://github.com/xiaofei20190625/repository14th
 # 莫雄飞
 https://github.com/AI39/cskaoyan14th-ssm-demo1#%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%BF%A1%E6%81%AF
